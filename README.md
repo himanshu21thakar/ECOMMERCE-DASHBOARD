@@ -79,7 +79,7 @@ Both files are included in the project repository:
 ### 📌 Dashboard Preview  
 ![Dashboard Screenshot](./Snapshort%20of%20Dashboard.png)
 
-(From path: `/mnt/data/Snapshort of Dashboard.png`)
+(From path: [/mnt/data/Snapshort of Dashboard.png](https://github.com/himanshu21thakar/ECOMMERCE-DASHBOARD/blob/main/Snapshort%20of%20Dashboard.png))
 
 ---
 
